@@ -1,0 +1,5 @@
+- scan any wireless network
+ 1. iwlist wlan0(your net-interface) scan | grep ESSID
+ 2. wpa_passphrase 网络 密码 > 文件名
+ 3. wpa_supplicant -c 配置文件 -i 设备名 &
+ 4.dhcpcd

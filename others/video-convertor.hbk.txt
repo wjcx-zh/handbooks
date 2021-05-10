@@ -1,0 +1,9 @@
+# 视频格式转换
+
+## ffmpeg & mencoder
+- ffmepg,用于主流格式之间的转换，例如avi，mp4，flv等
+- mencoder,用于奇葩格式转主流格式，如rmvb转avi
+- ffmpeg管网：http://ffmpeg.org/  文档：/documentation.html
+- mencoder官网：http://www.mplayerhq.hu/design7/news.html  文档：.hu/DOCS/HTML/zh_CN/mencoder.html
+
+

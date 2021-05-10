@@ -1,0 +1,1 @@
+mencoder kan84_tv-GAMS678_.mp4 -oac mp3lame -lameopts preset=64 -ovc xvid -xvidencopts bitrate=600 -of avi -o kan84_tv-GAMS678_.avi
