@@ -1,0 +1,5 @@
+mod1 : Alt
+mod2 : Num_Lock
+mod3 : -
+Mod4 : Windows
+mod5 : Shift
